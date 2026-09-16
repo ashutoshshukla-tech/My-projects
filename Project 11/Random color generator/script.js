@@ -27,4 +27,3 @@ function generateColor() {
 
 // Button click
 generateBtn.addEventListener("click", generateColor);
-generateColor();
